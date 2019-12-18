@@ -1,3 +1,6 @@
+[![Build Status](https://img.shields.io/travis/hfuda/AdminLTE/master.svg)](https://travis-ci.com/hfuda/AdminLTE)
+[![CDNJS](https://img.shields.io/cdnjs/v/admin-lte.svg)](https://cdnjs.com/libraries/admin-lte)
+
 Introduction
 ============
 
